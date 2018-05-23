@@ -1,0 +1,8 @@
+Git clone remoteURL 克隆一个项目到本地
+
+Git init 初始化一个本地仓库
+
+Git status 在你工作区里面 所以红色的文件 表示新增的修改的 删除 操作444
+
+Git add 选中文件名字需要提交的文件（）
+Git commit -m 添加有意义的说明
